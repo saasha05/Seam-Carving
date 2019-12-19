@@ -6,5 +6,3 @@ Below the first image is the original 505-by-287 pixel image; the second image i
 
 ![](example1.png)
 ![](example2.png)
-
-*Based on SIGGRAPH
